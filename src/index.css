@@ -1,0 +1,110 @@
+.tik {
+  padding: 10px;
+}
+.addbutton {
+  padding: 13px;
+  position: relative;
+  left: 5px;
+  background-color: #0f766e;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+  width: 100px;
+}
+.btn-section {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background: none;
+  font-size: 16px;
+}
+.tric {
+  background-color: #0f766e;
+  border: none;
+  color: #ffffff;
+  padding: 8px;
+  border-radius: 10px;
+  font-size: 16px;
+}
+.active {
+  border: 1px solid #6b807a;
+  background: none;
+  border-radius: 50px;
+  padding: 5px;
+  color: #6b807a;
+}
+
+.lain {
+  width: 80px;
+}
+.tik {
+  width: 200px;
+}
+.tik,
+.addbutton {
+  font-size: 16px;
+}
+.tik:hover {
+  border: 2px solid #0f766e;
+  border-radius: 5px;
+}
+.task {
+  /* margin-left: 30%;
+  margin-top: 60px; */
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 370px;
+  height: 250px;
+  justify-content: center;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-left: 30%;
+  margin-top: 5%;
+  padding-top: 0px;
+}
+.checkbox {
+  color: #17302b;
+  font-size: 16px;
+}
+.hello {
+  color: #17302b;
+}
+.mine {
+  font-size: 28px;
+  font-family: "Segoe-UI", Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: #e9efec;
+}
+.input-section {
+  display: flex;
+}
+.hello {
+  display: flex;
+}
+.hello h5 {
+  font-family: "system-ui", "apple-system", "segoe-ui";
+}
+.delete {
+  position: relative;
+  left: 182px;
+  color: #6b807a;
+}
+.delete:hover {
+  background-color: pink;
+  color: red;
+  width: 50px;
+  border-radius: 5px;
+  height: 40px;
+  padding: 5px;
+}
+.hello p {
+  color: #6b807a;
+}
+.mine {
+  position: relative;
+  top: 0;
+}
